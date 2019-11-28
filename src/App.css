@@ -17,7 +17,6 @@ h1{
 }
 
 .grid-items{
-  border: 2px solid cornflowerblue;
   align-items: stretch;
   width: 700px;
   height:100%;
