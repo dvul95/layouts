@@ -5,7 +5,6 @@ import step_1 from './components/Logo/step-1.jpg';
 import step_2 from './components/Logo/step-2.jpg';
 import step_3_4 from './components/Logo/step-3-4.jpg';
 import './App.css';
-import classes from './App.css';
 
 function App() {
   return (
