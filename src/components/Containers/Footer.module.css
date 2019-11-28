@@ -1,0 +1,41 @@
+.footer{
+    width: 60%;
+    height: 390px;
+    margin: auto;
+}
+
+.Footercontainer{
+    width: auto;
+    height: 100%;
+    margin: 15px;
+    padding: 5px 5px 0 0;
+    border: none;
+    align-items: center;
+  /* Used for layout testing:  border: 1px solid cornflowerblue; */
+}
+
+.Footertext{
+    width: 200px;
+    float: left;
+    margin: 15px 15px;
+    padding: 1px 1px 2px 3px;
+}
+
+p{
+    font-size: 12px;
+    text-align: center;
+}
+.FooterLogo{
+    float:right;
+    width: auto;
+    margin:15px 15px;
+    padding: 1px 1px 2px 3px;
+    position: relative;
+}
+
+.Hashtag{
+    position: absolute;
+    bottom: 10px;
+    width: 80%;
+    color: white;
+}
