@@ -18,7 +18,7 @@ function App() {
       <div className="item" style={{backgroundColor:"#99ccff" , color:"white", width:"180px", height:"256px" , padding:"15px 0 15px 15px"}}><h1 style={{fontSize:"76px"}}>1</h1></div>
       <div className="item"><h2 style={{margin:"0 15px 0 15px "}}>I WILL</h2><br/><p style={{width:"186px"}}>This is more serious than I thought. Apparently your mother is amorously infatuated with you instead of your father. What about George? Look, I'm just not ready to ask Lorraine out to the dance, and not you, nor anybody else on this planet is gonna make me change my mind. Well gee, I don't know. I hope you don't mind but George asked if he could take me home.</p></div>
       <div className="item"><img src={step_1} alt= "logo1" style={{width:"180px", height:"256px"}}/> </div>
-      {/* SECOND ROW */}
+      {/* SECOND ROW */} 
       <div className="item"> <img src={step_2} alt= "logo2" style={{width:"180px", height:"256px"}} /></div>
       <div className="item" style={{backgroundColor:"#99ccff" , color:"white",width:"180px", height:"256px"}}><h1 style={{fontSize:"76px"}}>2</h1></div>
       <div className="item"><h2>RIGHT</h2><br/><p style={{width:"186px"}}>My god, do you know what this means? It means that this damn thing doesn't work at all. Ah. Whoa. Okay. Damn, where is that kid. Damn. Damn damn. You're late, do you have no concept of time? Hey wait, wait a minute, who are you? Stella, another one of these damn kids jumped in front of my car. Come on out here, help me take him in the house.</p></div>
