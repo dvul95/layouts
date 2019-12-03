@@ -75,7 +75,7 @@ p{
   }
 
   .grid-items{
-    width: 60%;
+    width: 100%;
     display: inline-grid;
     grid-template-columns: auto;
     grid-template-rows: auto;
@@ -83,10 +83,14 @@ p{
   }
 
   .item{
-    width:80%;
+    width:auto;
     margin:15px 15px;
     height: auto;
-    padding: 0 0 0 15px;
+    padding: 0px;
+  }
+
+  .gridlay{
+    margin-left: 70px;
   }
 
 }
