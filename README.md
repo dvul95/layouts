@@ -1,4 +1,5 @@
-To run an app you can do the following:
+
+To run an app, you must do the following:
 
 ### `npm start`
 
