@@ -10,6 +10,10 @@ h1{
   text-align: center;
 }
 
+.header-container{
+  width: auto;
+}
+
 .gridlay{
   width: 100%;
   margin: 15px;

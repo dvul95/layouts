@@ -10,7 +10,9 @@ function App() {
   return (
     <div className="App">
       {/* Calling component 'Header' in the main method */}
-      <Header />
+      <div className="header-container">
+         <Header />
+      </div>
      <div className="paragraph"><p>Lorem ipsum here. Lorem ipsum here. This is a text paragraph.This is a text paragraph lorem ipsum paragraph lorem ipsum.</p><br/></div> 
       {/* GRID LAYOUT HERE */}
       <div className="gridlay">
