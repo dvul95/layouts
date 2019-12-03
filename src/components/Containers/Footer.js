@@ -14,7 +14,7 @@ class Footer extends Component {
                         {/*<h3>Footer_Logo</h3>*/}
                         <img src={footerPicture} alt="footer" style={{ width: "280px", height: "270px", marginTop:"5px", padding:"1px 1px 2px 3px" }} />
                         <div className={classes.Hashtag}>
-                            <p style={{ fontSize: "25px"}}>#RANDOM</p>
+                            <p style={{ fontSize: "48px"}}>#RANDOM</p>
                         </div>
                     </div>
                 </div>
