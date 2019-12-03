@@ -18,7 +18,7 @@ function App() {
       <div className="gridlay">
       <div className="grid-items">
       <div className="item" style={{backgroundColor:"#99ccff" , color:"white", width:"180px", height:"256px" , padding:"15px 0 15px 15px"}}><h1 style={{fontSize:"76px"}}>1</h1></div>
-      <div className="item"><h2 style={{margin:"0 15px 0 15px "}}>I WILL</h2><br/><p style={{width:"186px"}}>This is more serious than I thought. Apparently your mother is amorously infatuated with you instead of your father. What about George? Look, I'm just not ready to ask Lorraine out to the dance, and not you, nor anybody else on this planet is gonna make me change my mind. Well gee, I don't know. I hope you don't mind but George asked if he could take me home.</p></div>
+      <div className="item" ><h2 style={{margin:"0 15px 0 55px "}}>I WILL</h2><br/><p style={{width:"186px"}}>This is more serious than I thought. Apparently your mother is amorously infatuated with you instead of your father. What about George? Look, I'm just not ready to ask Lorraine out to the dance, and not you, nor anybody else on this planet is gonna make me change my mind. Well gee, I don't know. I hope you don't mind but George asked if he could take me home.</p></div>
       <div className="item"><img src={step_1} alt= "logo1" style={{width:"180px", height:"256px"}}/> </div>
       {/* SECOND ROW */} 
       <div className="item"> <img src={step_2} alt= "logo2" style={{width:"180px", height:"256px"}} /></div>
