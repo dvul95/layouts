@@ -22,7 +22,7 @@ h1{
 
 .grid-items{
   align-items: stretch;
-  width: 700px;
+  width: 50%;
   height:100%;
   display: inline-grid;
   grid-template-columns: auto auto auto;
