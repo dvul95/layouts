@@ -27,8 +27,8 @@ h1{
   height:100%;
   display: inline-grid;
   grid-template-columns: auto auto auto;
-  grid-column-gap: 5px;
-  grid-row-gap: 5px;
+  column-gap: 5px;
+  row-gap: 5px;
   padding: 5x;
   margin-bottom: 10px;
   margin-left: 15px;
